@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Events App</string>
+    <string name="add_event">Add Event</string>
+    <string name="list_events">List all events</string>
+    <string name="label_add_event">Add event</string>
+    <string name="label_event_name">Name of event</string>
+    <string name="label_datetime">Date/time of event</string>
+    <string name="label_location">Where it is going to happen</string>
+    <string name="label_organiser">Organiser</string>
+    <string name="label_description">All the gory details over here:</string>
+    <string name="button_add_event">Add event</string>
+    <string name="title">List of Events</string>
+</resources>
